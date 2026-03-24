@@ -219,13 +219,13 @@ export default function Home() {
         </p>
         <div className="flex gap-4 flex-wrap justify-center mt-4">
           <a
-            href="mailto:pawandagur786123@gmail.com"
+            href="mailto:pawandagur786@gmail.com"
             className="px-6 py-3 bg-white text-blue body-text font-semibold rounded-full hover:bg-light-blue transition-colors"
           >
             Email me
           </a>
           <a
-            href="https://linkedin.com/in/pawandagur"
+            href="www.linkedin.com/in/pawan-dagur-53a3b7130"
             target="_blank"
             rel="noopener noreferrer"
             className="px-6 py-3 border border-white text-white body-text rounded-full hover:bg-white hover:text-blue transition-colors"
